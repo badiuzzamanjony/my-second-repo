@@ -2,3 +2,8 @@ h2{
     color: red;
     text-align: center;
 }
+small {
+    background-color: blue;
+    width: 50%;
+    
+}
