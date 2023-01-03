@@ -1,3 +1,11 @@
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 200px;
+    background-image: url('../basic-css/image/home.png');
+    background-size: cover;
+    
+
+}
 h2{
     color: red;
     text-align: center;
@@ -5,5 +13,5 @@ h2{
 small {
     background-color: blue;
     width: 50%;
-    
+
 }
